@@ -1,21 +1,3 @@
-### Hi there 👋
-
-<!--
-**vilelaramon/vilelaramon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # Hello I'm Ramon Vilela
 
 ### About me:
@@ -24,7 +6,8 @@ Here are some ideas to get you started:
    Professional in Information Technology for over 10 years, with 5 years working with a focus on SharePoint. In my professional profile I stand out: Team spirit, good interpersonal relationship, initiative and responsibility.
 <p>
     Passionate about technology, with ease of self-learning and updating of knowledge.
-    Looking for a career migration to Web Developer
+<p>
+   Looking for a career migration to Web Developer
 
 ### Tools:
 
