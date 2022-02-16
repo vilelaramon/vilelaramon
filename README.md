@@ -3,7 +3,7 @@
 ### About me:
 
 <p>
-   Professional in Information Technology for over 10 years, with 5 years working with a focus on SharePoint. In my professional profile I stand out: Team spirit, good interpersonal relationship, initiative and responsibility.
+   Professional in Information Technology for over 10 years, with 5 years working with a focus on SharePoint. 
 <p>
     Passionate about technology, with ease of self-learning and updating of knowledge.
 <p>
