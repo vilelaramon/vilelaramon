@@ -3,11 +3,11 @@
 ### About me:
 
 <p>
-   Professional in Information Technology for over 10 years, with 5 years working with a focus on SharePoint. 
+   Professional in Information Technology for over 15 years. 
 <p>
     Passionate about technology, with ease of self-learning and updating of knowledge.
 <p>
-   Looking for a career migration to Web Developer
+   
 
 ### Tools:
 
