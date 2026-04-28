@@ -91,7 +91,7 @@ Apaixonado por tecnologia, com facilidade de autoaprendizado e constante atualiz
 
 ### 🌐 Onde me encontrar:
 
-<a href="mailto:ramon.vilela@trokti.com.br"><img src="https://img.shields.io/badge/-ra7monn@gmail.com-155e15?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117"/></a>
+<a href="mailto:ramon.vilela@trokti.com.br"><img src="https://img.shields.io/badge/-ramon.vilela@trokti.com.br-155e15?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117"/></a>
 
 ---
 
