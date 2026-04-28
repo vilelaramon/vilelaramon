@@ -12,93 +12,94 @@ Apaixonado por tecnologia, com facilidade de autoaprendizado e constante atualiz
 
 ### 🛠️ Ferramentas do dia a dia:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-e152aa?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=1f004e)&nbsp;
-![Git](https://img.shields.io/badge/-Git-e152aa?style=for-the-badge&logo=git&labelColor=1f004e)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-e152aa?style=for-the-badge&logo=github&labelColor=1f004e)&nbsp;
-![MacOS](https://img.shields.io/badge/-MacOS-e152aa?style=for-the-badge&logo=macos&labelColor=1f004e)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-e152aa?style=for-the-badge&logo=microsoft-office&labelColor=1f004e)&nbsp;
-![Confluence](https://img.shields.io/badge/-Confluence-e152aa?style=for-the-badge&logo=confluence&labelColor=1f004e)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-e152aa?style=for-the-badge&logo=jira&labelColor=1f004e)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-e152aa?style=for-the-badge&logo=figma&labelColor=1f004e)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-e152aa?style=for-the-badge&logo=postman&labelColor=1f004e)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-00ff41?style=for-the-badge&logo=visualstudiocode&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-00ff41?style=for-the-badge&logo=git&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![macOS](https://img.shields.io/badge/-macOS-00ff41?style=for-the-badge&logo=apple&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-00ff41?style=for-the-badge&logo=microsoftoffice&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![Confluence](https://img.shields.io/badge/-Confluence-00ff41?style=for-the-badge&logo=confluence&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-00ff41?style=for-the-badge&logo=jira&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-00ff41?style=for-the-badge&logo=figma&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-00ff41?style=for-the-badge&logo=postman&logoColor=00ff41&labelColor=0d1117)&nbsp;
 
 ---
 
 ### 💻 Linguagens & Frameworks:
 
-![.NET](https://img.shields.io/badge/-.NET-e152aa?style=for-the-badge&logo=dotnet&labelColor=1f004e)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-e152aa?style=for-the-badge&logo=csharp&labelColor=1f004e)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-e152aa?style=for-the-badge&logo=php&labelColor=1f004e)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-e152aa?style=for-the-badge&logo=laravel&labelColor=1f004e)&nbsp;
-![Python](https://img.shields.io/badge/-Python-e152aa?style=for-the-badge&logo=python&labelColor=1f004e)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-e152aa?style=for-the-badge&logo=typescript&labelColor=1f004e)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-e152aa?style=for-the-badge&logo=javascript&labelColor=1f004e)&nbsp;
-![React](https://img.shields.io/badge/-React-e152aa?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-e152aa?style=for-the-badge&logo=node.js&labelColor=1f004e)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-e152aa?style=for-the-badge&logo=html5&labelColor=1f004e)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-e152aa?style=for-the-badge&logo=css3&labelColor=1f004e)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-e152aa?style=for-the-badge&logo=tailwindcss&labelColor=1f004e)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-00ff41?style=for-the-badge&logo=dotnet&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-00ff41?style=for-the-badge&logo=csharp&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-00ff41?style=for-the-badge&logo=php&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-00ff41?style=for-the-badge&logo=laravel&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-00ff41?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-00ff41?style=for-the-badge&logo=typescript&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-00ff41?style=for-the-badge&logo=javascript&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![React](https://img.shields.io/badge/-React-00ff41?style=for-the-badge&logo=react&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-00ff41?style=for-the-badge&logo=nodedotjs&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-00ff41?style=for-the-badge&logo=html5&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-00ff41?style=for-the-badge&logo=css3&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-00ff41?style=for-the-badge&logo=tailwindcss&logoColor=00ff41&labelColor=0d1117)&nbsp;
 
 ---
 
 ### 📊 Data, BI & Analytics:
 
-![Power BI](https://img.shields.io/badge/-Power_BI-e152aa?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=1f004e)&nbsp;
-![DAX](https://img.shields.io/badge/-DAX-e152aa?style=for-the-badge&logo=microsoft&labelColor=1f004e)&nbsp;
-![Microsoft Fabric](https://img.shields.io/badge/-Microsoft_Fabric-e152aa?style=for-the-badge&logo=microsoft&labelColor=1f004e)&nbsp;
-![PySpark](https://img.shields.io/badge/-PySpark-e152aa?style=for-the-badge&logo=apachespark&labelColor=1f004e)&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQL_Server-e152aa?style=for-the-badge&logo=microsoftsqlserver&labelColor=1f004e)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-e152aa?style=for-the-badge&logo=mysql&labelColor=1f004e)&nbsp;
-![KNIME](https://img.shields.io/badge/-KNIME-e152aa?style=for-the-badge&logo=knime&labelColor=1f004e)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power_BI-00ff41?style=for-the-badge&logo=powerbi&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![DAX](https://img.shields.io/badge/-DAX-00ff41?style=for-the-badge&logo=powerbi&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![Microsoft Fabric](https://img.shields.io/badge/-Microsoft_Fabric-00ff41?style=for-the-badge&logo=microsoft&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![PySpark](https://img.shields.io/badge/-PySpark-00ff41?style=for-the-badge&logo=apachespark&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL_Server-00ff41?style=for-the-badge&logo=microsoftsqlserver&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-00ff41?style=for-the-badge&logo=mysql&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![KNIME](https://img.shields.io/badge/-KNIME-00ff41?style=for-the-badge&logo=knime&logoColor=00ff41&labelColor=0d1117)&nbsp;
 
 ---
 
 ### ☁️ Cloud & DevOps:
 
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-e152aa?style=for-the-badge&logo=microsoftazure&labelColor=1f004e)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-e152aa?style=for-the-badge&logo=amazonaws&labelColor=1f004e)&nbsp;
-![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-e152aa?style=for-the-badge&logo=azuredevops&labelColor=1f004e)&nbsp;
-![SharePoint](https://img.shields.io/badge/-SharePoint-e152aa?style=for-the-badge&logo=microsoftsharepoint&labelColor=1f004e)&nbsp;
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-00ff41?style=for-the-badge&logo=microsoftazure&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-00ff41?style=for-the-badge&logo=amazonaws&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-00ff41?style=for-the-badge&logo=azuredevops&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![SharePoint](https://img.shields.io/badge/-SharePoint-00ff41?style=for-the-badge&logo=microsoftsharepoint&logoColor=00ff41&labelColor=0d1117)&nbsp;
 
 ---
 
 ### 🤖 AI & Coding Assistants:
 
-![Cursor AI](https://img.shields.io/badge/-Cursor_AI-e152aa?style=for-the-badge&logo=cursor&labelColor=1f004e)&nbsp;
-![Claude Code](https://img.shields.io/badge/-Claude_Code-e152aa?style=for-the-badge&logo=anthropic&labelColor=1f004e)&nbsp;
-![Antigravity](https://img.shields.io/badge/-Antigravity-e152aa?style=for-the-badge&logo=codeium&labelColor=1f004e)&nbsp;
-![Ollama](https://img.shields.io/badge/-Ollama-e152aa?style=for-the-badge&logo=ollama&labelColor=1f004e)&nbsp;
-![LM Studio](https://img.shields.io/badge/-LM_Studio-e152aa?style=for-the-badge&logo=lmstudio&labelColor=1f004e)&nbsp;
+![Cursor AI](https://img.shields.io/badge/-Cursor_AI-00ff41?style=for-the-badge&logo=cursor&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![Claude Code](https://img.shields.io/badge/-Claude_Code-00ff41?style=for-the-badge&logo=anthropic&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![Antigravity](https://img.shields.io/badge/-Antigravity-00ff41?style=for-the-badge&logo=windowsterminal&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![Ollama](https://img.shields.io/badge/-Ollama-00ff41?style=for-the-badge&logo=ollama&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![LM Studio](https://img.shields.io/badge/-LM_Studio-00ff41?style=for-the-badge&logo=huggingface&logoColor=00ff41&labelColor=0d1117)&nbsp;
 
 ---
 
 ### 🎯 Áreas de Interesse:
 
-![React Native](https://img.shields.io/badge/-React_Native-e152aa?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
-![Power BI Embedded](https://img.shields.io/badge/-Power_BI_Embedded-e152aa?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=1f004e)&nbsp;
-![Data Engineering](https://img.shields.io/badge/-Data_Engineering-e152aa?style=for-the-badge&logo=databricks&labelColor=1f004e)&nbsp;
-![AI / LLMs](https://img.shields.io/badge/-AI_%2F_LLMs-e152aa?style=for-the-badge&logo=openai&labelColor=1f004e)&nbsp;
+![React Native](https://img.shields.io/badge/-React_Native-e152aa?style=for-the-badge&logo=react&logoColor=e152aa&labelColor=0d1117)&nbsp;
+![Power BI Embedded](https://img.shields.io/badge/-Power_BI_Embedded-e152aa?style=for-the-badge&logo=powerbi&logoColor=e152aa&labelColor=0d1117)&nbsp;
+![Data Engineering](https://img.shields.io/badge/-Data_Engineering-e152aa?style=for-the-badge&logo=databricks&logoColor=e152aa&labelColor=0d1117)&nbsp;
+![AI / LLMs](https://img.shields.io/badge/-AI_%2F_LLMs-e152aa?style=for-the-badge&logo=openai&logoColor=e152aa&labelColor=0d1117)&nbsp;
 
 ---
 
 ### 📈 GitHub Analytics:
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vilelaramon&title_color=e152aa&icon_color=ff66c4&text_color=5ce1e6&bg_color=1f004e&border_color=e152aa&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vilelaramon&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=0d1117&border_color=00ff41&show_icons=true&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vilelaramon&theme=radical&background=1f004e&border=e152aa&stroke=e152aa&ring=ff66c4&fire=ff66c4&currStreakLabel=e152aa&sideLabels=5ce1e6&currStreakNum=5ce1e6&sideNums=5ce1e6&dates=5ce1e6"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vilelaramon&background=0d1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=e152aa&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff"/>
 </p>
 
 ---
 
 ### 🌐 Onde me encontrar:
 
-<a href="mailto:ra7monn@gmail.com"><img src="https://img.shields.io/badge/-ra7monn@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vilelaramon/"><img src="https://img.shields.io/badge/-Ramon_Vilela-00ff41?style=for-the-badge&logo=Linkedin&logoColor=00ff41&labelColor=0d1117"/></a>&nbsp;
+<a href="mailto:ra7monn@gmail.com"><img src="https://img.shields.io/badge/-ra7monn@gmail.com-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117"/></a>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vilelaramon&label=Visualizações%20do%20perfil&color=e152aa&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=vilelaramon&label=Visualizações%20do%20perfil&color=00ff41&style=for-the-badge" alt="Profile views"/>
 </p>
