@@ -85,8 +85,6 @@ Apaixonado por tecnologia, com facilidade de autoaprendizado e constante atualiz
 ---
 
 ### 🌐 Onde me encontrar:
-
-<a href="https://www.linkedin.com/in/vilelaramon/"><img src="https://img.shields.io/badge/-Ramon_Vilela-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ra7monn@gmail.com"><img src="https://img.shields.io/badge/-ra7monn@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 
 ---
