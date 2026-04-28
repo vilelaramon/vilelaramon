@@ -4,7 +4,7 @@
 
 Consultor de T.I. com mais de **15 anos de experiência**, atuando em projetos de grande porte para clientes do setor financeiro e corporativo. Trabalho atualmente com sistemas de **conciliação financeira**, **Business Intelligence** e **integração de plataformas analíticas**.
 
-Apaixonado por tecnologia, com facilidade de autoaprendizado e constante atualização de conhecimento. Empreendedor por natureza — também toco projetos próprios na área de varejo de tecnologia e produtos terapêuticos.
+Apaixonado por tecnologia, com facilidade de autoaprendizado e constante atualização de conhecimento. Empreendedor por natureza — também toco projetos próprios na área de varejo de tecnologia.
 
 📍 Osasco — São Paulo, Brasil
 
