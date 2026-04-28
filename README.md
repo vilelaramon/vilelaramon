@@ -94,7 +94,3 @@ Apaixonado por tecnologia, com facilidade de autoaprendizado e constante atualiz
 <a href="mailto:ramon.vilela@trokti.com.br"><img src="https://img.shields.io/badge/-ramon.vilela@trokti.com.br-155e15?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117"/></a>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vilelaramon&label=Visualizações%20do%20perfil&color=155e15&style=for-the-badge" alt="Profile views"/>
-</p>
