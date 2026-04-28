@@ -37,7 +37,7 @@ Apaixonado por tecnologia, com facilidade de autoaprendizado e constante atualiz
 ![Node.js](https://img.shields.io/badge/-Node.js-e152aa?style=for-the-badge&logo=node.js&labelColor=1f004e)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-e152aa?style=for-the-badge&logo=html5&labelColor=1f004e)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-e152aa?style=for-the-badge&logo=css3&labelColor=1f004e)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-e152aa?style=for-the-badge&logo=tailwindcss&labelColor=1f004e)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-e152aa?style=for-the-badge&logo=tailwindcss&labelColor=1f004e)&nbsp;
 
 ---
 
@@ -62,6 +62,16 @@ Apaixonado por tecnologia, com facilidade de autoaprendizado e constante atualiz
 
 ---
 
+### 🤖 AI & Coding Assistants:
+
+![Cursor AI](https://img.shields.io/badge/-Cursor_AI-e152aa?style=for-the-badge&logo=cursor&labelColor=1f004e)&nbsp;
+![Claude Code](https://img.shields.io/badge/-Claude_Code-e152aa?style=for-the-badge&logo=anthropic&labelColor=1f004e)&nbsp;
+![Antigravity](https://img.shields.io/badge/-Antigravity-e152aa?style=for-the-badge&logo=codeium&labelColor=1f004e)&nbsp;
+![Ollama](https://img.shields.io/badge/-Ollama-e152aa?style=for-the-badge&logo=ollama&labelColor=1f004e)&nbsp;
+![LM Studio](https://img.shields.io/badge/-LM_Studio-e152aa?style=for-the-badge&logo=lmstudio&labelColor=1f004e)&nbsp;
+
+---
+
 ### 🎯 Áreas de Interesse:
 
 ![React Native](https://img.shields.io/badge/-React_Native-e152aa?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
@@ -75,7 +85,6 @@ Apaixonado por tecnologia, com facilidade de autoaprendizado e constante atualiz
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vilelaramon&title_color=e152aa&icon_color=ff66c4&text_color=5ce1e6&bg_color=1f004e&border_color=e152aa&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilelaramon&layout=compact&title_color=e152aa&text_color=5ce1e6&bg_color=1f004e&border_color=e152aa&langs_count=8"/>
 </p>
 
 <p align="left">
@@ -85,6 +94,7 @@ Apaixonado por tecnologia, com facilidade de autoaprendizado e constante atualiz
 ---
 
 ### 🌐 Onde me encontrar:
+
 <a href="mailto:ra7monn@gmail.com"><img src="https://img.shields.io/badge/-ra7monn@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 
 ---
