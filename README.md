@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou o Ramon Vilela
-
 ### 🧑‍💻 Sobre mim:
 
 Consultor de T.I. com mais de **15 anos de experiência**, atuando em projetos de grande porte para clientes do setor financeiro e corporativo. Trabalho atualmente com sistemas de **conciliação financeira**, **Business Intelligence** e **integração de plataformas analíticas**.
@@ -12,32 +10,31 @@ Apaixonado por tecnologia, com facilidade de autoaprendizado e constante atualiz
 
 ### 🛠️ Ferramentas do dia a dia:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-155e15?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwZmY0MSIgZD0iTTIzLjE1IDIuNTg3IDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUEuOTk5Ljk5OSAwIDAgMCAuMzI2IDguNzRMNC4wMyAxMiAuMzI2IDE1LjI2YS45OTkuOTk5IDAgMCAwIC4wMDEgMS40NzlsMS4zMjcgMS4yMTJhLjk5OS45OTkgMCAwIDAgMS4yNzUuMDU3bDQuMTItMy4xMjggOS40NiA4LjYzYTEuNDkyIDEuNDkyIDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMjAuMDZWMy45MzlhMS41IDEuNSAwIDAgMC0uODUtMS4zNTJ6TTE4LjUgMTUuNjM3bC01LjUtNC4xMzcgNS41LTQuMTM3eiIvPjwvc3ZnPg==&labelColor=0d1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-155e15?style=for-the-badge&logo=git&logoColor=00ff41&labelColor=0d1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-155e15?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117)&nbsp;
 ![macOS](https://img.shields.io/badge/-macOS-155e15?style=for-the-badge&logo=apple&logoColor=00ff41&labelColor=0d1117)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-155e15?style=for-the-badge&logo=microsoft&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-155e15?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwZmY0MSIgZD0iTTIzLjE1IDIuNTg3IDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUEuOTk5Ljk5OSAwIDAgMCAuMzI2IDguNzRMNC4wMyAxMiAuMzI2IDE1LjI2YS45OTkuOTk5IDAgMCAwIC4wMDEgMS40NzlsMS4zMjcgMS4yMTJhLjk5OS45OTkgMCAwIDAgMS4yNzUuMDU3bDQuMTItMy4xMjggOS40NiA4LjYzYTEuNDkyIDEuNDkyIDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMjAuMDZWMy45MzlhMS41IDEuNSAwIDAgMC0uODUtMS4zNTJ6TTE4LjUgMTUuNjM3bC01LjUtNC4xMzcgNS41LTQuMTM3eiIvPjwvc3ZnPg==&labelColor=0d1117)&nbsp;
 ![Confluence](https://img.shields.io/badge/-Confluence-155e15?style=for-the-badge&logo=confluence&logoColor=00ff41&labelColor=0d1117)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-155e15?style=for-the-badge&logo=jira&logoColor=00ff41&labelColor=0d1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-155e15?style=for-the-badge&logo=figma&logoColor=00ff41&labelColor=0d1117)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-155e15?style=for-the-badge&logo=postman&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-155e15?style=for-the-badge&logo=git&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-155e15?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117)&nbsp;
 
 ---
 
 ### 💻 Linguagens & Frameworks:
 
+![React](https://img.shields.io/badge/-React-155e15?style=for-the-badge&logo=react&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-155e15?style=for-the-badge&logo=nodedotjs&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-155e15?style=for-the-badge&logo=typescript&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-155e15?style=for-the-badge&logo=javascript&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-155e15?style=for-the-badge&logo=tailwindcss&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-155e15?style=for-the-badge&logo=html5&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-155e15?style=for-the-badge&logo=css3&logoColor=00ff41&labelColor=0d1117)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-155e15?style=for-the-badge&logo=dotnet&logoColor=00ff41&labelColor=0d1117)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-155e15?style=for-the-badge&logo=csharp&logoColor=00ff41&labelColor=0d1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-155e15?style=for-the-badge&logo=php&logoColor=00ff41&labelColor=0d1117)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-155e15?style=for-the-badge&logo=laravel&logoColor=00ff41&labelColor=0d1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-155e15?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=0d1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-155e15?style=for-the-badge&logo=typescript&logoColor=00ff41&labelColor=0d1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-155e15?style=for-the-badge&logo=javascript&logoColor=00ff41&labelColor=0d1117)&nbsp;
-![React](https://img.shields.io/badge/-React-155e15?style=for-the-badge&logo=react&logoColor=00ff41&labelColor=0d1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-155e15?style=for-the-badge&logo=nodedotjs&logoColor=00ff41&labelColor=0d1117)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-155e15?style=for-the-badge&logo=html5&logoColor=00ff41&labelColor=0d1117)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-155e15?style=for-the-badge&logo=css3&logoColor=00ff41&labelColor=0d1117)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-155e15?style=for-the-badge&logo=tailwindcss&logoColor=00ff41&labelColor=0d1117)&nbsp;
 
 ---
 
@@ -64,18 +61,17 @@ Apaixonado por tecnologia, com facilidade de autoaprendizado e constante atualiz
 
 ### 🤖 AI & Coding Assistants:
 
+![Ollama](https://img.shields.io/badge/-Ollama-155e15?style=for-the-badge&logo=ollama&logoColor=00ff41&labelColor=0d1117)&nbsp;
+![LM Studio](https://img.shields.io/badge/-LM_Studio-155e15?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwZmY0MSIgZD0iTTEyIDJhMTAgMTAgMCAxIDAgMCAyMCAxMCAxMCAwIDAgMCAwLTIwem0wIDJhOCA4IDAgMCAxIDcuNzUgNkg0LjI1QTggOCAwIDAgMSAxMiA0em0tNCA5YTEuNSAxLjUgMCAxIDEgMCAzIDEuNSAxLjUgMCAwIDEgMC0zem04IDBhMS41IDEuNSAwIDEgMSAwIDMgMS41IDEuNSAwIDAgMSAwLTN6bS04IDRoOGEuNS41IDAgMCAxIC40LjhBNS45NyA1Ljk3IDAgMCAxIDEyIDIwYTUuOTcgNS45NyAwIDAgMS00LjQtMS45NC41LjUgMCAwIDEgLjQtLjh6Ii8+PC9zdmc+&labelColor=0d1117)&nbsp;
 ![Cursor AI](https://img.shields.io/badge/-Cursor_AI-155e15?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwZmY0MSIgZD0iTTUuNSAyLjVMMjEgMTJsLTYuNSAzLjUtNCA0TDkgMTMuNSAyLjUgMjFsMyA5LjV6Ii8+PC9zdmc+&labelColor=0d1117)&nbsp;
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-155e15?style=for-the-badge&logo=anthropic&logoColor=00ff41&labelColor=0d1117)&nbsp;
 ![Antigravity](https://img.shields.io/badge/-Antigravity-155e15?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwZmY0MSIgZD0iTTEyIDJMMyAyMGgyLjVsMS44LTMuNmgzLjNMOSA5LjJsMyA3LjJoMy40bDEuOCAzLjZIMjBMMTIgMnptMCA1LjcgMi41IDYuMUg5LjVMMTIgNy43eiIvPjwvc3ZnPg==&labelColor=0d1117)&nbsp;
-![Ollama](https://img.shields.io/badge/-Ollama-155e15?style=for-the-badge&logo=ollama&logoColor=00ff41&labelColor=0d1117)&nbsp;
-![LM Studio](https://img.shields.io/badge/-LM_Studio-155e15?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwZmY0MSIgZD0iTTEyIDJhMTAgMTAgMCAxIDAgMCAyMCAxMCAxMCAwIDAgMCAwLTIwem0wIDJhOCA4IDAgMCAxIDcuNzUgNkg0LjI1QTggOCAwIDAgMSAxMiA0em0tNCA5YTEuNSAxLjUgMCAxIDEgMCAzIDEuNSAxLjUgMCAwIDEgMC0zem04IDBhMS41IDEuNSAwIDEgMSAwIDMgMS41IDEuNSAwIDAgMSAwLTN6bS04IDRoOGEuNS41IDAgMCAxIC40LjhBNS45NyA1Ljk3IDAgMCAxIDEyIDIwYTUuOTcgNS45NyAwIDAgMS00LjQtMS45NC41LjUgMCAwIDEgLjQtLjh6Ii8+PC9zdmc+&labelColor=0d1117)&nbsp;
+
 
 ---
 
 ### 🎯 Áreas de Interesse:
 
-![React Native](https://img.shields.io/badge/-React_Native-155e15?style=for-the-badge&logo=react&logoColor=00ff41&labelColor=0d1117)&nbsp;
-![Power BI Embedded](https://img.shields.io/badge/-Power_BI_Embedded-155e15?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwZmY0MSIgZD0iTTE0IDRhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAyaC0xVjRaTTkgOGEyIDIgMCAwIDEgMiAydjEwYTIgMiAwIDAgMS0yIDJIOFY4Wk00IDEyYTIgMiAwIDAgMSAyIDJ2NmEyIDIgMCAwIDEtMiAySDNWMTJaTTE5IDhhMiAyIDAgMCAxIDIgMnYxMGEyIDIgMCAwIDEtMiAyaC0xVjhaIi8+PC9zdmc+&labelColor=0d1117)&nbsp;
 ![Data Engineering](https://img.shields.io/badge/-Data_Engineering-155e15?style=for-the-badge&logo=databricks&logoColor=00ff41&labelColor=0d1117)&nbsp;
 ![AI / LLMs](https://img.shields.io/badge/-AI_%2F_LLMs-155e15?style=for-the-badge&logo=openai&logoColor=00ff41&labelColor=0d1117)&nbsp;
 
